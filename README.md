@@ -13,7 +13,7 @@ ChubML is a JavaScript library designed to make HTML more compact and easier to 
 ## About Me
 
 - 👀 I'm interested in Coding Shenanigans and exploring new technologies.
-- 🌱 I'm currently learning Oak, an exciting new programming language.
+- 🌱 I'm currently learning Oak, an exciting Toy programming language.
 - 💞️ I'm looking to collaborate on all kinds of projects, so feel free to reach out!
 - 📫 How to reach me: You can contact me through Email, Discord, Twitter, or Replit.
 
