@@ -1,7 +1,3 @@
-<small>
-    ashey
-</small>
-
 ```go
     ,""""""""""""""""",^,"""""""""""",                  
   .l ?]]]]]]]]]]]]]]]].~.????????????.I                 
@@ -24,7 +20,8 @@
         ^I"I!!!!!!!!!!!">:!!!!!!!!!!,",^                
            ^```````````^ ^``````````^
 ```
----
+
+<hr>
 
 # Hi, I'm SpcFORK! 👋
 Welcome to my GitHub profile! I'm the creator of ChubML, a JS library that simplifies HTML syntax and makes it more compact. I'm passionate about coding and creating innovative projects.
