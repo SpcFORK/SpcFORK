@@ -1,5 +1,3 @@
-# Hi, I'm SpcFORK! 👋
-Welcome to my GitHub profile! I'm the creator of ChubML, a JS library that simplifies HTML syntax and makes it more compact. I'm passionate about coding and creating innovative projects.
 ```go
     ,""""""""""""""""",^,"""""""""""",                  
   .l ?]]]]]]]]]]]]]]]].~.????????????.I                 
@@ -22,6 +20,11 @@ Welcome to my GitHub profile! I'm the creator of ChubML, a JS library that simpl
         ^I"I!!!!!!!!!!!">:!!!!!!!!!!,",^                
            ^```````````^ ^``````````^
 ```
+
+---
+
+# Hi, I'm SpcFORK! 👋
+Welcome to my GitHub profile! I'm the creator of ChubML, a JS library that simplifies HTML syntax and makes it more compact. I'm passionate about coding and creating innovative projects.
 
 ## About ChubML
 
