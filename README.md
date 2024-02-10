@@ -31,7 +31,7 @@ Asri is an advanced application starter for anyone who has used or is wanteing t
 Asri allows for you to create an object like ECMAjsDOM,
 allowing for simple OOP with prebuilt Client-Middleware.
 
-## [LEARN MORE](https://github.com/@SpcFORK/Asri)
+### [LEARN MORE](https://github.com/@Spcfork/Asri)
 
 ## About ChubML
 
