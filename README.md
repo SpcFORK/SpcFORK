@@ -24,7 +24,11 @@
 # Hi, I'm SpcFORK! 👋
 Welcome to my GitHub profile! I'm the creator of ChubML, a JS library that simplifies HTML syntax and makes it more compact. I'm passionate about coding and creating innovative projects.
 
+![Pro Susha Badge](ProSushaBADGE.svg)
+
 ## About Asri
+
+![Asri](Asri.svg)
 
 Asri is an advanced application starter for anyone who has used or is wanting to learn and use ChubML, Susha, and a few more of my libraries bundled in.
 
