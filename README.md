@@ -25,6 +25,9 @@
 Welcome to my GitHub profile! I'm the creator of ChubML, a JS library that simplifies HTML syntax and makes it more compact. I'm passionate about coding and creating innovative projects.
 
 ![Pro Susha Badge](ProSushaBADGE.svg)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## About Asri
 
