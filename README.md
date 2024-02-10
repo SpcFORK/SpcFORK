@@ -24,6 +24,15 @@
 # Hi, I'm SpcFORK! 👋
 Welcome to my GitHub profile! I'm the creator of ChubML, a JS library that simplifies HTML syntax and makes it more compact. I'm passionate about coding and creating innovative projects.
 
+## About Asri
+
+Asri is an advanced application starter for anyone who has used or is wanteing to learn and use ChubML, Susha, and a few more of my libraries bundled in.
+
+Asri allows for you to create an object like ECMAjsDOM,
+allowing for simple OOP with prebuilt Client-Middleware.
+
+## [LEARN MORE](https://githib.com/@SpcFORK/Asri)
+
 ## About ChubML
 
 ChubML is a JavaScript library designed to make HTML more compact and easier to work with. The main features of ChubML include:
