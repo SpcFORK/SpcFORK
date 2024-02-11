@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm the creator of ChubML, a JS library that simpl
 
 ## About Asri
 
-![Asri](Asri.svg)
+[![Asri](Asri.svg)](https://replit.com/new?tab=replit&language=html&template=160910a4-5017-4602-81e0-a948bc939a6a)
 
 Asri is an advanced application starter for anyone who has used or is wanting to learn and use ChubML, Susha, and a few more of my libraries bundled in.
 
