@@ -5,8 +5,8 @@
  l ]]]lllllllllllllIII:> ]]]]]]]]]]]] l                 |   - I love making all software,       |  |   '----.
  l:iii>>>>>>>>>>>>>]]] ~ ]]]]]]]]]]]] l                 |                                       |  (________'
  l`++++++++++++++++---.~ ]]]]]]]]]]]] l                  '-------------------------------------'   ==========
- lIIIIIIIIIIIIIIIIIIII;~.??????----?? l                 // #ChubML
- lIlllllllllllllllllll:iI"""""",;:;''l;".               @def=Cool_Projects;
+ lIIIIIIIIIIIIIIIIIIII;~.??????----?? l                 
+ lIlllllllllllllllllll:iI"""""",;:;''l;".               @def=Cool_Projects; // #ChubML
  l;lllllllllllllllllll:l    '^,,Iii??]-i;".                 #'https://chubml.replit.app/' @mkprp=__lastQD.ChubML;
  `I,I:::::::::I,,,,,,,:`   ,;ii??]]]]]]]-i",                #'https://asridev.replit.app/' @mkprp=__lastQD.Asri;
    ,:iiiiiiiii:,          :IIii!!!!!!!?]]]I:"           #['JS','TS','OAK'] @def=Langs;
@@ -18,7 +18,8 @@
      I,i-]]]]]]-???????.~ ]]]]]]]]]]]]]?!,,^                #Developer @mkprp=ICow.developer;
       ^IIi?-]]]]]]]]]]] ~ ]]]]]]]]]]??!,,^                  #Metaprogrammer @mkprp=ICow.metaprogrammer;
         ^I"I!!!!!!!!!!!">:!!!!!!!!!!,",^                    #true @mkprp=ICow.enjoyer_of_nonstandard;
-           ^```````````^ ^``````````^                       // Deletes
+           ^```````````^ ^``````````^
+                                                            // Deletes
                                                             @eval=delete|Developer;
                                                                 @eval=delete|Languages;
                                                             @eval=delete|Metaprogrammer;
