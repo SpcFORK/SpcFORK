@@ -6,19 +6,30 @@
  l:iii>>>>>>>>>>>>>]]] ~ ]]]]]]]]]]]] l                 |                                       |  (________'
  l`++++++++++++++++---.~ ]]]]]]]]]]]] l                  '-------------------------------------'   ==========
  lIIIIIIIIIIIIIIIIIIII;~.??????----?? l                 
- lIlllllllllllllllllll:iI"""""",;:;''l;".               
- l;lllllllllllllllllll:l    '^,,Iii??]-i;".             
- `I,I:::::::::I,,,,,,,:`   ,;ii??]]]]]]]-i",            
-   ,:iiiiiiiii:,          :IIii!!!!!!!?]]]I:"           
-   l ]]]]]]]]] l           ^`````````l.]]]] i           
-   l ]]]]]]]]] l                   .`l.]]]]?.I          
-   l.?]]]]]]]] l         ,""""""""";!!?]]]]] l          
-   `i ]]]]]]]] l        I.?????????-]]]]]]]I";          
-    ;:I]]]]]]]l;""""""",! ]]]]]]]]]]]]]]]?!^;           
-     I,i-]]]]]]-???????.~ ]]]]]]]]]]]]]?!,,^            
-      ^IIi?-]]]]]]]]]]] ~ ]]]]]]]]]]??!,,^              
-        ^I"I!!!!!!!!!!!">:!!!!!!!!!!,",^                
-           ^```````````^ ^``````````^
+ lIlllllllllllllllllll:iI"""""",;:;''l;".               @def=Cool_Projects;
+ l;lllllllllllllllllll:l    '^,,Iii??]-i;".                 #'https://chubml.replit.app/' @mkprp=__lastQD.ChubML;
+ `I,I:::::::::I,,,,,,,:`   ,;ii??]]]]]]]-i",                #'https://asridev.replit.app/' @mkprp=__lastQD.Asri;
+   ,:iiiiiiiii:,          :IIii!!!!!!!?]]]I:"           #['JS','TS','OAK'] @def=Langs;
+   l ]]]]]]]]] l           ^`````````l.]]]] i           @def=SpcFORK #SpcFORK @def=ICow;
+   l ]]]]]]]]] l                   .`l.]]]]?.I              @def=Developer;
+   l.?]]]]]]]] l         ,""""""""";!!?]]]]] l                  #Langs @mkprp=Developer.Languages;
+   `i ]]]]]]]] l        I.?????????-]]]]]]]I";                  #Cool_Projects @mkprp=Developer.Projects;
+    ;:I]]]]]]]l;""""""",! ]]]]]]]]]]]]]]]?!^;               #Langs.slice(0,2) @def=Metaprogrammer;
+     I,i-]]]]]]-???????.~ ]]]]]]]]]]]]]?!,,^                #Developer @mkprp=ICow.developer;
+      ^IIi?-]]]]]]]]]]] ~ ]]]]]]]]]]??!,,^                  #Metaprogrammer @mkprp=ICow.metaprogrammer;
+        ^I"I!!!!!!!!!!!">:!!!!!!!!!!,",^                    #true @mkprp=ICow.enjoyer_of_nonstandard;
+           ^```````````^ ^``````````^                       // Deletes
+                                                            @eval=delete|Developer;
+                                                                @eval=delete|Languages;
+                                                            @eval=delete|Metaprogrammer;
+                                                            @eval=delete|Langs;
+                                                            @eval=delete|ICow;
+
+                                                            // @page
+                                                            html;
+                                                                wow;
+                                                                    pre @:Self:| @ret=JSON.stringify(SpcFORK,null,2);
+                                                                    @eval=delete|SpcFORK;
 ```
 
 # Hi, I'm SpcFORK! 👋
