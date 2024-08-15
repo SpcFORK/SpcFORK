@@ -20,16 +20,16 @@
         ^I"I!!!!!!!!!!!">:!!!!!!!!!!,",^                    #true @mkprp=ICow.enjoyer_of_nonstandard;
            ^```````````^ ^``````````^
                                                             // Deletes
-                                                            @eval=delete|Developer;
-                                                                @eval=delete|Languages;
-                                                            @eval=delete|Metaprogrammer;
-                                                            @eval=delete|Langs;
-                                                            @eval=delete|ICow;
-
-                                                            // @page
-                                                            html;
-                                                                wow;
-                                                                    pre @:Self:| @ret=JSON.stringify(SpcFORK,null,2);
+    LANGS;                                                  @eval=delete|Developer;
+      js;                                                       @eval=delete|Languages;
+        ts;                                                 @eval=delete|Metaprogrammer;
+        mjs;                                                @eval=delete|Langs;
+        njs;                                                @eval=delete|ICow;
+      py;
+      oak;                                                  // @page
+      Cs;                                                   html;
+      FORTRAN;                                                  wow;
+      basics;                                                       pre @:Self:| @ret=JSON.stringify(SpcFORK,null,2);
                                                                     @eval=delete|SpcFORK;
 ```
 
