@@ -9,7 +9,7 @@
  lIlllllllllllllllllll:iI"""""",;:;''l;".               @def=Cool_Projects; // #ChubML
  l;lllllllllllllllllll:l    '^,,Iii??]-i;".                 #'https://chubml.replit.app/' @mkprp=__lastQD.ChubML;
  `I,I:::::::::I,,,,,,,:`   ,;ii??]]]]]]]-i",                #'https://asridev.replit.app/' @mkprp=__lastQD.Asri;
-   ,:iiiiiiiii:,          :IIii!!!!!!!?]]]I:"           #['JS','TS','OAK'] @def=Langs;
+   ,:iiiiiiiii:,          :IIii!!!!!!!?]]]I:"           #['JS','TS','OAK','F95','PHP','JAVA'] @def=Langs;
    l ]]]]]]]]] l           ^`````````l.]]]] i           @def=SpcFORK #SpcFORK @def=ICow;
    l ]]]]]]]]] l                   .`l.]]]]?.I              @def=Developer;
    l.?]]]]]]]] l         ,""""""""";!!?]]]]] l                  #Langs @mkprp=Developer.Languages;
