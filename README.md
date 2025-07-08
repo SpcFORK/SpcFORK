@@ -41,6 +41,10 @@ Welcome to my GitHub profile! I'm the creator of ChubML, a JS library that simpl
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/ecmajs-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+## About My Games
+
+I make games, woo!
+
 ## About Asri
 
 [![Asri](Asri.svg)](https://replit.com/new?tab=replit&language=html&template=160910a4-5017-4602-81e0-a948bc939a6a)
