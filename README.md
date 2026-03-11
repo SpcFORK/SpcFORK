@@ -1,36 +1,35 @@
 ```go
-    ,""""""""""""""""",^,"""""""""""",                   .-------------------------------------.   .---.
-  .l ?]]]]]]]]]]]]]]]].~.????????????.I                 | SpcFORK :: Syntax Guru                |  |   |
- ",!l]IIIIIIIIIIIIIIII,< ]]]]]]]]]]]] l                 |   - "Asri or else nada!!"             |  |   |
- l ]]]lllllllllllllIII:> ]]]]]]]]]]]] l                 |   - I love making all software        |  |   '----.
- l:iii>>>>>>>>>>>>>]]] ~ ]]]]]]]]]]]] l                 |                                       |  (________'
- l`++++++++++++++++---.~ ]]]]]]]]]]]] l                  '-------------------------------------'   ==========
+    ,""""""""""""""""",^,"""""""""""",                   .-------------------------------------. 
+  .l ?]]]]]]]]]]]]]]]].~.????????????.I                 | SpcFORK :: ...                        |  
+ ",!l]IIIIIIIIIIIIIIII,< ]]]]]]]]]]]] l                 |                                       |  
+ l ]]]lllllllllllllIII:> ]]]]]]]]]]]] l                 |                                       |  
+ l:iii>>>>>>>>>>>>>]]] ~ ]]]]]]]]]]]] l                 |                                       |  
+ l`++++++++++++++++---.~ ]]]]]]]]]]]] l                  '-------------------------------------'   
  lIIIIIIIIIIIIIIIIIIII;~.??????----?? l                 
  lIlllllllllllllllllll:iI"""""",;:;''l;".               @def=Cool_Projects; // #ChubML
  l;lllllllllllllllllll:l    '^,,Iii??]-i;".                 #'https://chubml.replit.app/' @mkprp=__lastQD.ChubML;
- `I,I:::::::::I,,,,,,,:`   ,;ii??]]]]]]]-i",                #'https://asridev.replit.app/' @mkprp=__lastQD.Asri;
-   ,:iiiiiiiii:,          :IIii!!!!!!!?]]]I:"           #['JS','TS','OAK','F95','PHP','JAVA'] @def=Langs;
+ `I,I:::::::::I,,,,,,,:`   ,;ii??]]]]]]]-i",                #'https://github.com/SpcFORK/magnolia' @mkprp=__lastQD.Magnolia;
+   ,:iiiiiiiii:,          :IIii!!!!!!!?]]]I:"           #['OAK'] @def=Langs;
    l ]]]]]]]]] l           ^`````````l.]]]] i           @def=SpcFORK #SpcFORK @def=ICow;
    l ]]]]]]]]] l                   .`l.]]]]?.I              @def=Developer;
    l.?]]]]]]]] l         ,""""""""";!!?]]]]] l                  #Langs @mkprp=Developer.Languages;
    `i ]]]]]]]] l        I.?????????-]]]]]]]I";                  #Cool_Projects @mkprp=Developer.Projects;
-    ;:I]]]]]]]l;""""""",! ]]]]]]]]]]]]]]]?!^;               #Langs.slice(0,2) @def=Metaprogrammer;
-     I,i-]]]]]]-???????.~ ]]]]]]]]]]]]]?!,,^                #Developer @mkprp=ICow.developer;
-      ^IIi?-]]]]]]]]]]] ~ ]]]]]]]]]]??!,,^                  #Metaprogrammer @mkprp=ICow.metaprogrammer;
-        ^I"I!!!!!!!!!!!">:!!!!!!!!!!,",^                    #true @mkprp=ICow.enjoyer_of_nonstandard;
-           ^```````````^ ^``````````^
-                                                            // Deletes
-    LANGS;                                                  @eval=delete|Developer;
-      js;                                                       @eval=delete|Languages;
-        ts;                                                 @eval=delete|Metaprogrammer;
-        mjs;                                                @eval=delete|Langs;
-        njs;                                                @eval=delete|ICow;
-      py;
-      oak;                                                  // @page
-      Cs;                                                   html;
-      FORTRAN;                                                  wow;
-      basics;                                                       pre @:Self:| @ret=JSON.stringify(SpcFORK,null,2);
-      ChubML;                                                       @eval=delete|SpcFORK;
+    ;:I]]]]]]]l;""""""",! ]]]]]]]]]]]]]]]?!^;               
+     I,i-]]]]]]-???????.~ ]]]]]]]]]]]]]?!,,^                // Deletes
+      ^IIi?-]]]]]]]]]]] ~ ]]]]]]]]]]??!,,^                  @eval=delete|Developer;
+        ^I"I!!!!!!!!!!!">:!!!!!!!!!!,",^                    @eval=delete|Cool_Projects;
+           ^```````````^ ^``````````^                       @eval=delete|Langs;
+                                                            
+    LANGS;                                                  // @page
+      oak;                                                  html;
+      ChubML;                                                   wow;
+                                                                    pre @:Self:| @ret=JSON.stringify(SpcFORK,null,2);
+                                                                    @eval=delete|SpcFORK;
+                                                            
+                                                            
+                                                                
+                                                                    
+                                                                    
 ```
 
 # Hi, I'm SpcFORK! 👋
