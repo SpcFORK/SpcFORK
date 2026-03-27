@@ -48,7 +48,7 @@ I make games, woo!
 
 is an expressive, dynamically typed programming language based on Oak. It extends Oak with powerful new features including a transpile middleware system, virtual file system, advanced threading utilities, and GPU computing support, while maintaining the simplicity and elegance of the original language.
 
-<img width="400" height="400" src="https://github.com/user-attachments/assets/a15a83f3-ae7a-4391-8344-93c75b36ec38" />
+[<img width="380" height="380" src="https://github.com/user-attachments/assets/a15a83f3-ae7a-4391-8344-93c75b36ec38" />](https://github.com/SpcFORK/magnolia/tree/main/samples)
 
 ### [LEARN MORE](https://github.com/SpcFORK/magnolia/tree/main/samples)
 
