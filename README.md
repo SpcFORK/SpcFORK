@@ -84,4 +84,4 @@ ChubML is a JavaScript library designed to make HTML more compact and easier to 
 - Twitter: [@spectcow](https://twitter.com/spectcow)
 - Replit: [SpcFORK](https://replit.com/@Spcfork)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=not-a-ethan&show_icons=true&locale=en&layout=compact&theme=dark" alt="not-a-ethan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spcfork&show_icons=true&locale=en&layout=compact&theme=dark" alt="not-a-ethan" /></p>
