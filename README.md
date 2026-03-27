@@ -44,6 +44,12 @@ Welcome to my GitHub profile! I'm the creator of ChubML, a JS library that simpl
 
 I make games, woo!
 
+## About Magnolia
+
+is an expressive, dynamically typed programming language based on Oak. It extends Oak with powerful new features including a transpile middleware system, virtual file system, advanced threading utilities, and GPU computing support, while maintaining the simplicity and elegance of the original language.
+
+https://github.com/SpcFORK/magnolia/tree/main/samples
+
 ## About Asri
 
 [![Asri](Asri.svg)](https://replit.com/new?tab=replit&language=html&template=160910a4-5017-4602-81e0-a948bc939a6a)
