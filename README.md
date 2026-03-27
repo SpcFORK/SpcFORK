@@ -84,7 +84,4 @@ ChubML is a JavaScript library designed to make HTML more compact and easier to 
 - Twitter: [@spectcow](https://twitter.com/spectcow)
 - Replit: [SpcFORK](https://replit.com/@Spcfork)
 
-<!---
-SpcFORK/SpcFORK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=not-a-ethan&show_icons=true&locale=en&layout=compact&theme=dark" alt="not-a-ethan" /></p>
